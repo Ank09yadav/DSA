@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int columnSize[]={2,3,6,2,};
+    int columnSize[]={2,3,1,2,};
     int* jagged[4];
 
     for(int i=0;i<4;i++)
