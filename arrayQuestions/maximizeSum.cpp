@@ -24,7 +24,7 @@ int main() {
     vector<int> nums1 = {1, 4, 3, 2};
     cout << "Example 1 Input: nums = [1, 4, 3, 2]" << endl;
     int result1 = solution.arrayPairSum(nums1);
-    cout << "Output: " << result1 << endl; // Expected: 4
+    cout << "Output: " << result1 << endl; 
     if (result1 == 4) cout << "Test Passed!" << endl;
     else cout << "Test Failed!" << endl;
     cout << endl;
